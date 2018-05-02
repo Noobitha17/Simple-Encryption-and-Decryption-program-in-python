@@ -1,6 +1,5 @@
 import caesarcipher,time
 from caesarcipher import CaesarCipher
-from tkinter import messagebox
 class Securing_Caesar_Cipher:
     def __init__(self):
         self.banner='''
